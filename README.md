@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
