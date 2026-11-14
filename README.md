@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
