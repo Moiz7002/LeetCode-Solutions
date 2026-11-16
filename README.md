@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -65,6 +66,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -78,5 +80,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
