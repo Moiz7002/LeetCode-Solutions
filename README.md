@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -19,6 +20,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
