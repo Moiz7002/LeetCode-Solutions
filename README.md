@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
