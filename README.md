@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
