@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,6 +28,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
