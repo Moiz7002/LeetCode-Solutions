@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -29,10 +30,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
