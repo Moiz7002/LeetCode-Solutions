@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
