@@ -38,6 +38,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Counting
 |  |
 | ------- |
