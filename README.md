@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3360-stone-removal-game](https://github.com/Moiz7002/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Counting
